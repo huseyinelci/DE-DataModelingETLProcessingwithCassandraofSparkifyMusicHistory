@@ -1,5 +1,5 @@
-<img src="https://github.com/huseyinelci2000/DE-DataModelingofSparkifySongPlay/edit/master/image/Cassandra_Sparkify.jpg?raw=true" width="100%">
-----
+<img src="https://github.com/huseyinelci2000/DE-DataModelingETLProcessingwithCassandraofSparkifyMusicHistory/edit/master/image/Cassandra_Sparkify.jpg?raw=true" width="100%">
+---
 # Data Modeling ETL Processing with Cassandra
 ## Sparkify Music App History
 This project is submission for the Nanodegree Data Engineering Program. In this project consists of putting into practice the following titles:
