@@ -1,3 +1,7 @@
+<img src="https://github.com/huseyinelci2000/DE-DataModelingofSparkifySongPlay/blob/master/image/RDBS_Sparkify.jpg?raw=true" width="100%">
+
+----
+
 # Data Modeling ETL Processing with Cassandra
 ## Sparkify Music App History
 This project is submission for the Nanodegree Data Engineering Program. In this project consists of putting into practice the following titles:
