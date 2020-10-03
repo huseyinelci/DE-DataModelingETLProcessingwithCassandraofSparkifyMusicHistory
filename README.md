@@ -1,1 +1,2 @@
-# DE-Data-Modeling-ETL-Processing-with-Cassandra-of-Sparkify-Music-History
+# Data Modeling ETL Processing with Cassandra
+## Sparkify Music App History
