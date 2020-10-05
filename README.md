@@ -75,12 +75,12 @@ WHERE sessionId=338 AND itemInSession=4
 ```
 2. Find name of artist, song (sorted by itemInSession) and user (first and last name) for userid=10, sessionId=182.
 ```Sql
-SELECT artist, song, firstName, lastName FROM music_app_history2 
+SELECT artist, song, firstName, lastName FROM user_session_history 
 WHERE userId=10 and sessionId=182
 ```
 3. Find every user name (first and last) who listened to the song 'All Hands Against His Own'.
 ```Sql
-SELECT firstName, lastName
+SELECT firstName, lastName FROM user_song_history
 WHERE song='All Hands Againgst His Own'
 ```
 
