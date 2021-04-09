@@ -128,7 +128,6 @@ The Source owner is [Sparkify](http://www.sparkify.com/)
 The data In this project is **OpenSource** and owner is  [Sparkify](http://www.sparkify.com/). Also, if _you plan to use this database in your article research or else_ you must taken and read main Source in the **Sparkify Dataset repository**.
 #### Authors
 Huseyin ELCI
-  |  [Github](https://github.com/huseyinelci2000)  |  [Kaggle](https://www.kaggle.com/huseyinelci)  |  [Linkedin](https://www.linkedin.com/in/huseyinelci/)   |  
+  |  [Github](https://github.com/huseyinelci)  |  [Kaggle](https://www.kaggle.com/huseyinelci)  |  [Linkedin](https://www.linkedin.com/in/huseyinelci/)   |  
 #### Acknowledgements
-Thanks to [Udacity](https://www.udacity.com/) for editing and setting the projects.
 Thanks to  [Sparkify](http://www.sparkify.com/) for providing cool data with which we can create a cutting edge project.
